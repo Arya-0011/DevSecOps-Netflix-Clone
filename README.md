@@ -1,6 +1,12 @@
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
+  <br>
+  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
+    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
+  </a>
+</div>
+
 <br />
 
 <div align="center">
@@ -162,9 +168,9 @@ After adding sonar token
 
 Click on Apply and Save
 
-**The Configure System option** is used in Jenkins to configure different server
+**The Configure System option** is used in Jenkins to configure different server
 
-**Global Tool Configuration** is used to configure different tools that we install using Plugins
+**Global Tool Configuration** is used to configure different tools that we install using Plugins
 
 We will install a sonar scanner in the tools.
 
